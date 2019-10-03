@@ -1,5 +1,4 @@
 #!/bin/bash
-# Update source for glslang
 
 set -e
 
